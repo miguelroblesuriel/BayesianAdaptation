@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\OneDrive\\Escritorio\\Uni\\Tercero\\Cuatri 2\\Proyecto\\Bayesian adaptation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDBC9A7-296D-4847-A26F-318C33AE0CB0}|Bayesian adaptation\\Bayesian adaptation.csproj|c:\\users\\migue\\onedrive\\escritorio\\uni\\tercero\\cuatri 2\\proyecto\\bayesian adaptation\\bayesian adaptation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDBC9A7-296D-4847-A26F-318C33AE0CB0}|Bayesian adaptation\\Bayesian adaptation.csproj|solutionrelative:bayesian adaptation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\Uni\\Tercero\\Cuatri 2\\Proyecto\\Bayesian adaptation\\Bayesian adaptation\\Program.cs",
+              "RelativeDocumentMoniker": "Bayesian adaptation\\Program.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\Uni\\Tercero\\Cuatri 2\\Proyecto\\Bayesian adaptation\\Bayesian adaptation\\Program.cs",
+              "RelativeToolTip": "Bayesian adaptation\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:22:24.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
